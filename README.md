@@ -4,6 +4,10 @@ Here is my memo & config files & scripts to create my own PKI enviroment. (e.g. 
 
 This repository inlude some private keys, and I KNOW IT IS DANGEROUS. I create this repository just for study and testing, so YOU DON'T NEED TO ALERT ME. I never use these keys in public server.
 
+# Documentation
+
+See Repository's [Wiki](https://github.com/ozuma/pki-sample/wiki/Private-Certification-Authority).
+
 # Reference
 
 * [(Book) Ivan Ristić: Bulletproof SSL and TLS](https://www.feistyduck.com/books/bulletproof-ssl-and-tls/)
